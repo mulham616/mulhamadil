@@ -1,7 +1,5 @@
 Hello there 👋
 
-![Random Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default)
-
 Thanks for coming to my profile. Here is a few things to know me better:
 
 ![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
