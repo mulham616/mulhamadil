@@ -2,6 +2,9 @@ Hello there 👋
 
 Thanks for coming to my profile. Here is a few things to know me better:
 
+ <a href="https://github.com/c-spider/c-spider" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=mulhamadil&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
 ![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
 
 [![Twitter: therealmulhamadil](https://img.shields.io/twitter/follow/mulhamadil?style=social)](https://twitter.com/ThaiiBraga)
