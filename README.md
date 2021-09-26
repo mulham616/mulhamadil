@@ -4,7 +4,7 @@ Hello there 👋
 
 Thanks for coming to my profile. Here is a few things to know me better:
 
-![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=dream-well&count_public=true&show_icons=true)
+![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
 
 [![Twitter: therealmulhamadil](https://img.shields.io/twitter/follow/mulhamadil?style=social)](https://twitter.com/ThaiiBraga)
 [![GitHub @mulhamadil](https://img.shields.io/github/followers/mulhamadil?label=follow&style=social)](https://github.com/mulhamadil)
