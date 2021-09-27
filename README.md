@@ -13,8 +13,9 @@ Thanks for coming to my profile. Here is a few things to know me better:
 -->
 <!-- ![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
 -->
+<!--
 ![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
+-->
 [![Twitter: therealmulhamadil](https://img.shields.io/twitter/follow/mulhamadil?style=social)](https://twitter.com/ThaiiBraga)
 [![GitHub @mulhamadil](https://img.shields.io/github/followers/mulhamadil?label=follow&style=social)](https://github.com/mulhamadil)
 
