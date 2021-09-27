@@ -1,11 +1,19 @@
 Hello there 👋
 
 Thanks for coming to my profile. Here is a few things to know me better:
+<!--
 
  <a href="https://github.com/c-spider/c-spider" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=mulhamadil&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=mulhamadil&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px" />
   </a>
-![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
+  
+  <a href="https://github.com/c-spider/c-spider" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=c-spider&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C-Spider's GitHub Stats" height="180px"/>
+  </a>
+-->
+<!-- ![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
+-->
+![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 [![Twitter: therealmulhamadil](https://img.shields.io/twitter/follow/mulhamadil?style=social)](https://twitter.com/ThaiiBraga)
 [![GitHub @mulhamadil](https://img.shields.io/github/followers/mulhamadil?label=follow&style=social)](https://github.com/mulhamadil)
